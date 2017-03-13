@@ -28,3 +28,5 @@
 ```bash
 ~/express-example$ node index.js
 ```
+
+Открыть в браузере http://localhost:3000
